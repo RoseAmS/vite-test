@@ -10,8 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "monday-ui-react-core": "^2.80.0",
     "@mondaydotcomorg/monday-ui-style": "git+https://github.com/RoseAmS/monday-ui-style.git",
+    "monday-ui-react-core": "^2.80.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
